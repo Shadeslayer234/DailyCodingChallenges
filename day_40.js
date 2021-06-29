@@ -1,3 +1,4 @@
+//Sort the odd
 const sortArray = (array) => {
   // Return a sorted array.
   let newAr = []
