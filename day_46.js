@@ -1,6 +1,6 @@
 // The First Non Repeated Character In A String
 function firstNonRepeated(s) {
-  // your code here
+//Your Code Here
 
   let word = s.split('')
   let nonre = []
@@ -19,5 +19,4 @@ function firstNonRepeated(s) {
   else{
   return nonre[0]
 }
-
 }
